@@ -68,7 +68,7 @@ Not intended for medical decision-making or clinical use.
 ---
 
 ## 👩‍💻 Author  
-**Isha**  
+**Essha Jha**  
 Product Manager • Data Analyst • AI Innovation Enthusiast  
 Focused on building user-centric, intuitive, and responsible AI experiences.
 
