@@ -4,7 +4,7 @@
 <div align="center">
 
 🔗 **Try Ava Now**  
-👉 <a href="https://isha-techpm.github.io/ava-medical-chatbot/" target="_blank"><b>Launch Chatbot</b></a>
+👉 <a href="https://essha-jha.github.io/ava-medical-chatbot/" target="_blank"><b>Launch Chatbot</b></a>
 
 </div>
 
